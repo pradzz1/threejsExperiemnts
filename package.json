@@ -1,0 +1,32 @@
+{
+  "name": "threejsexperiemnts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --inline --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradzz1/threejsExperiemnts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradzz1/threejsExperiemnts/issues"
+  },
+  "homepage": "https://github.com/pradzz1/threejsExperiemnts#readme",
+  "dependencies": {
+    "three": "^0.126.1",
+    "css-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "progress-bar-webpack-plugin": "latest",
+    "style-loader": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest"
+  }
+}
